@@ -1,0 +1,6 @@
+body{font-family: Arial, sans-serif;margin:0;padding:0}
+header{background:#007bff;color:#fff;padding:10px}
+.container{padding:20px}
+table{width:100%;border-collapse:collapse}
+table th, table td{border:1px solid #ddd;padding:8px}
+.error{color:red}
